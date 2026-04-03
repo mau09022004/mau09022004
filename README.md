@@ -59,8 +59,4 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
----
 
-## 💬 Contact
-
-If you are interested in collaboration or research, feel free to reach out!
