@@ -43,8 +43,8 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
-
 ---
 
 ## 🧠 Research Interests
