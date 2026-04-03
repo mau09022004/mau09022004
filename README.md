@@ -3,7 +3,8 @@
  I'm <a href="#" target="_blank">Bùi Công Mậu</a>👋
 </h1>
 ---
- I am a final-year student at the University of Science, Ho Chi Minh City, with a strong interest in Data Analytics. I am passionate about solving complex business problems through data and exploring innovative, data-driven approaches to support better decision-making. My GitHub showcases projects in Python, SQL, Machine Learning, Data Analytics that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. I have hands-on experience across the full data workflow, including data collection, cleaning, exploration, modeling, and visualization.Currently, I am working on my graduation thesis in Natural Language Processing (NLP), further strengthening my analytical and research skills. I am seeking opportunities to grow as a Data Analyst and contribute to impactful, data-driven solutions.
+
+I am a final-year student at the University of Science, Ho Chi Minh City, with a strong interest in Data Analytics. I am passionate about solving complex business problems through data and exploring innovative, data-driven approaches to support better decision-making. My GitHub showcases projects in Python, SQL, Machine Learning, Data Analytics that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. I have hands-on experience across the full data workflow, including data collection, cleaning, exploration, modeling, and visualization.Currently, I am working on my graduation thesis in Natural Language Processing (NLP), further strengthening my analytical and research skills. I am seeking opportunities to grow as a Data Analyst and contribute to impactful, data-driven solutions.
   
 ## 🤝 Connect with me 🤝
 
