@@ -1,68 +1,58 @@
 
 <h1 align="center">
-Hi 👋 I'm <a href="#" target="_blank">Bùi Công Mậu</a>
+ I'm <a href="#" target="_blank">Bùi Công Mậu</a>👋
 </h1>
-
 ---
+I am a final-year student at the University of Science, Ho Chi Minh City, with a strong interest in Data Analytics. I am passionate about solving complex business problems through data and exploring innovative, data-driven approaches to support better decision-making. My GitHub showcases projects in Python, SQL, Machine Learning, Data Analytics that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. I have hands-on experience across the full data workflow, including data collection, cleaning, exploration, modeling, and visualization.Currently, I am working on my graduation thesis in Natural Language Processing (NLP), further strengthening my analytical and research skills. I am seeking opportunities to grow as a Data Analyst and contribute to impactful, data-driven solutions.
+  
+## 🤝 Connect with me 🤝
 
-## 🚀 About Me
-
-I am passionate about solving real-world problems using **Data Science, Machine Learning, and Analytics**.  
-I enjoy working with data pipelines, building predictive models, and exploring innovative approaches to improve decision-making.
-
-My GitHub showcases projects related to:
-- Data Analysis & Visualization  
-- Machine Learning & AI  
-- NLP & Knowledge Graph  
-- E-commerce Data Applications  
-
----
-
-## 🤝 Connect with Me
-
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/mau-bui-aa784b350/">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:congmau0904@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/mau.cong.bui/">
+  <img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ---
 
-## 🔭 Currently Working On
+## 🔭  I'm currently
 
-- Graduation Thesis (AI / Knowledge Graph / QA Systems)
-- E-commerce Data Projects (Shopee, Tiki)
-- Building baseline models for research comparison
-
+- Doing Graduation Thesis (NLP)
 ---
 
 ## 💼 Technical Skills
 
-### 👨‍💻 Programming & Data
+## 💼 Technical Skills
+
+### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 📊 Data Science & ML
+### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-2C2D72?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-777BB4?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### 📈 Visualization
-![Matplotlib](https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=matplotlib)
-![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly)
-![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi)
-
-### ☁️ Tools & Platforms
+### 🛠 Tools
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
-![Colab](https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab)
-![VSCode](https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
@@ -80,15 +70,6 @@ My GitHub showcases projects related to:
 - 🔹 E-commerce Analytics (Shopee, Tiki datasets)
 - 🔹 Machine Learning Models with K-Fold Validation
 - 🔹 Knowledge Graph QA System (Graduation Thesis)
-
----
-
-## 📈 GitHub Stats
-
-<p>
-<img align="left" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername"/>
-<img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true"/>
-</p>
 
 ---
 
