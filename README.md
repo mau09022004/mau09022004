@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername" alt="profile views" />
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm <a href="#" target="_blank">Bùi Minh</a>
+Hi 👋 I'm <a href="#" target="_blank">Bùi Công Mậu</a>
 </h1>
 
 ---
