@@ -68,15 +68,7 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 - Question Answering Systems (QA)
 - NLP for Vietnamese & English
 - Baseline model benchmarking
-
----
-
-## 📌 Featured Projects
-
-- 🔹 E-commerce Analytics (Shopee, Tiki datasets)
-- 🔹 Machine Learning Models with K-Fold Validation
-- 🔹 Knowledge Graph QA System (Graduation Thesis)
-
+- 
 ---
 
 ## 💬 Contact
