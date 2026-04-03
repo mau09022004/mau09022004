@@ -61,15 +61,6 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-## 🧠 Research Interests
-
-- Knowledge Graph Embedding (KGE)
-- Question Answering Systems (QA)
-- NLP for Vietnamese & English
-- Baseline model benchmarking
-- 
----
-
 ## 💬 Contact
 
 If you are interested in collaboration or research, feel free to reach out!
