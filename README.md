@@ -32,24 +32,17 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 
 ## 💼 Technical Skills
 
-### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-2C2D72?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-777BB4?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
-
-### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### 🛠 Tools
-![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
