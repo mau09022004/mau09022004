@@ -30,8 +30,6 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 
 ## 💼 Technical Skills
 
-## 💼 Technical Skills
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
