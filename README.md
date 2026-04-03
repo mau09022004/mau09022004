@@ -1,13 +1,4 @@
 
-
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername" alt="profile views" />
-</h3>
-
-<p align="center">
-  <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" />
-</p>
-
 <h1 align="center">
 Hi 👋 I'm <a href="#" target="_blank">Bùi Công Mậu</a>
 </h1>
