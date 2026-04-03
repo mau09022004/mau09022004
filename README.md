@@ -21,12 +21,9 @@ I am a final-year student at the University of Science, Ho Chi Minh City, with a
 
 <br/><br/>
 
----
-
 ## 🔭  I'm currently
 
 - Doing Graduation Thesis (NLP)
----
 
 ## 💼 Technical Skills
 
